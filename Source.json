@@ -9,7 +9,7 @@
     "apps": [
         {
             "name": "Balatro_1.0.1",
-            "bundleIdentifier": "game.love",
+            "bundleIdentifier": "org.htf65jud.balatro",
             "developerName": "YouTube_19.49.7_YTPlusFull_5.1 x CyPwn",
             "version": "19.49.7",
             "versionDate": "2024-12-16",
